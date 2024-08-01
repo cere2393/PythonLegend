@@ -1,0 +1,5 @@
+print("29 de julio del 2024")
+print("Me siento feliz")
+print("Quiero ser un gran programador")
+print("Espero con ansias como seras un gran programador")
+print("🙌")
